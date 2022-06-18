@@ -1,8 +1,11 @@
 #100DaysOfCode Log - Round 1 - Tina
+
 The log of my #100DaysOfCode challenge. Started on [June 18, Saturday, 2022].
 
 Log
+
 R1D1
+
 Day 1 : June 18, 2022
 
 Today's Progress: Started the Cat Photo App Actitvy on freecodecamp.org in the Responsive Web Design Course and stopped at Step 36.
