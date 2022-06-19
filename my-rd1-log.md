@@ -16,3 +16,11 @@ I would have loved to complete the whole Activity but I was pressed for time for
 Link to work : Still yet to complete all steps.
 
 R1D2
+
+Day 2: June 19, 2022
+
+Today's Progress: Completed the Cat Photo App activity on freecodecamp.org in the Responsive Web Design Course. Also did 1 codewars challenge and hoping to complete 2 challenges the next day!
+
+Thoughts: The Cat Phot App Activity refreshened some of the basic html elements that I had learnt earlier in my schooling days. I enjoyed completing each step. The codewars challenge was a bit tricky as I had approached the challenge in a different way as opposed to other peoplewho completed it but later on figured it out. After completing the challenge, I realised that I have to go over some concepts to refreshen my skills.
+
+Link to work: Complete. Reference to work unavailable as freecodecamp does not provide any link to download activites completed.
