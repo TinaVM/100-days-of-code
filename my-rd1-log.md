@@ -27,11 +27,20 @@ Link to work: Complete. Reference to work unavailable as freecodecamp does not p
 
 R1D3
 
-Day 2: June 20, 2022
+Day 3: June 20, 2022
 
 Today's Progress: Started the 'Building a Cafe Menu' project in the responsive web design course of freecodecamp.org. I also completed 2 codewars challenges.
 
 Thoughts: The Cafe Menu peoject gave me some insight to the responsiveness of CSS, I'm hoping to push further in the activity and focus on the parts that can help me solve my issues with responsiveness. The codewars that I completed today were abit challenging even though the activities sounded easy. I will not give up!
 
 Link to work: Complete. Reference to work unavailable as freecodecamp does not provide any link to download activites completed.
+
+Day 4: June 26, 2022
+
+Today's Progress: Finished the 'Building a Cafe Menu' project in the responsive web design course of freecodecamp.org.
+
+Thoughts: Completeing the project was fun and refreshed my CSS knowledge.
+
+link to work: ![image](https://user-images.githubusercontent.com/92442291/175816784-49f7c757-d0b6-4429-8b95-b74103c8e152.png)
+
 
