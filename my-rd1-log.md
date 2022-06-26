@@ -21,7 +21,7 @@ Day 2: June 19, 2022
 
 Today's Progress: Completed the Cat Photo App activity on freecodecamp.org in the Responsive Web Design Course. Also did 1 codewars challenge and hoping to complete 2 challenges the next day!
 
-Thoughts: The Cat Phot App Activity refreshened some of the basic html elements that I had learnt earlier in my schooling days. I enjoyed completing each step. The codewars challenge was a bit tricky as I had approached the challenge in a different way as opposed to other peoplewho completed it but later on figured it out. After completing the challenge, I realised that I have to go over some concepts to refreshen my skills.
+Thoughts: The Cat Photo App Activity refreshened some of the basic html elements that I had learnt earlier in my schooling days. I enjoyed completing each step. The codewars challenge was a bit tricky as I had approached the challenge in a different way as opposed to other peoplewho completed it but later on figured it out. After completing the challenge, I realised that I have to go over some concepts to refreshen my skills.
 
 Link to work: Complete. Reference to work unavailable as freecodecamp does not provide any link to download activites completed.
 
@@ -34,6 +34,8 @@ Today's Progress: Started the 'Building a Cafe Menu' project in the responsive w
 Thoughts: The Cafe Menu peoject gave me some insight to the responsiveness of CSS, I'm hoping to push further in the activity and focus on the parts that can help me solve my issues with responsiveness. The codewars that I completed today were abit challenging even though the activities sounded easy. I will not give up!
 
 Link to work: Complete. Reference to work unavailable as freecodecamp does not provide any link to download activites completed.
+
+R1D4
 
 Day 4: June 26, 2022
 
