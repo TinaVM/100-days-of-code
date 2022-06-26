@@ -39,9 +39,9 @@ R1D4
 
 Day 4: June 26, 2022
 
-Today's Progress: Finished the 'Building a Cafe Menu' project in the responsive web design course of freecodecamp.org.
+Today's Progress: Finished the 'Building a Cafe Menu' project in the responsive web design course of freecodecamp.org. Completed 1 codewars challenge.
 
-Thoughts: Completeing the project was fun and refreshed my CSS knowledge.
+Thoughts: Completing the project was fun and refreshed my CSS knowledge.
 
 link to work: ![image](https://user-images.githubusercontent.com/92442291/175816784-49f7c757-d0b6-4429-8b95-b74103c8e152.png)
 
