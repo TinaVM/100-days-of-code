@@ -45,4 +45,14 @@ Thoughts: Completing the project was fun and refreshed my CSS knowledge.
 
 link to work: ![image](https://user-images.githubusercontent.com/92442291/175816784-49f7c757-d0b6-4429-8b95-b74103c8e152.png)
 
+R1D5
+Day 5: July 20, 2022
+
+Today's Progress: Started the 'Learn Colors By Building a Set of Colored Markers' project in freecodecamp.org of the responsive web design course and stopped at step 53.
+
+Thoughts:
+
+link to work: ![image](https://user-images.githubusercontent.com/92442291/179989998-6d805d9b-9aa1-4960-91c7-30d0bed68289.png)
+
+
 
