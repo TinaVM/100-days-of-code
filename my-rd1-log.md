@@ -48,9 +48,9 @@ link to work: ![image](https://user-images.githubusercontent.com/92442291/175816
 R1D5
 Day 5: July 20, 2022
 
-Today's Progress: Started the 'Learn Colors By Building a Set of Colored Markers' project in freecodecamp.org of the responsive web design course and stopped at step 53.
+Today's Progress: Started the 'Learn Colors By Building a Set of Colored Markers' project in freecodecamp.org of the responsive web design course and stopped at step 53. Also started the 'Basic JavaScript' chapter of the JavaScript Algorithms and Data Structures of freecodecamp.org and stopped at part 9.
 
-Thoughts:
+Thoughts: I have learnt about the different color models and what a mixture of them does when trying to create different gradients to a specific div container. I have also learnt today the basic JavaScript syntax and structure. I look forward to learning and completing both courses.
 
 link to work: ![image](https://user-images.githubusercontent.com/92442291/179989998-6d805d9b-9aa1-4960-91c7-30d0bed68289.png)
 
