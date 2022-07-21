@@ -58,9 +58,9 @@ link to work: ![image](https://user-images.githubusercontent.com/92442291/179989
 R1D6
 Day 6: July 21, 2022
 
-Today's Progress: Completed the 'Learn Colors By Building a Set of Colored Markers' project in freecodecamp.org of the responsive web design course.
+Today's Progress: Completed the 'Learn Colors By Building a Set of Colored Markers' project in freecodecamp.org of the responsive web design course. Also learnt some compund assignments with JavaScript.
 
-Thoughts: After the completion, I have learnt more about the color models and how the different color models' values affect an object and its color.
+Thoughts: After the completion, I have learnt more about the color models and how the different color models' values affect an object and its color. With JavaScript, the topics that I have learnt today is not something that I am new to, so learning the concept of compound assignments was rather easy for me to understand as other programming languages also use this concept.
 
 Link to work: ![image](https://user-images.githubusercontent.com/92442291/180304135-90fde0d9-e307-4026-bc72-fe1e0964cf14.png)
 
