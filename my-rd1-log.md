@@ -55,4 +55,14 @@ Thoughts: I have learnt about the different color models and what a mixture of t
 link to work: ![image](https://user-images.githubusercontent.com/92442291/179989998-6d805d9b-9aa1-4960-91c7-30d0bed68289.png)
 
 
+R1D6
+Day 6: July 21, 2022
+
+Today's Progress: Completed the 'Learn Colors By Building a Set of Colored Markers' project in freecodecamp.org of the responsive web design course.
+
+Thoughts: After the completion, I have learnt more about the color models and how the different color models' values affect an object and its color.
+
+Link to work: ![image](https://user-images.githubusercontent.com/92442291/180304135-90fde0d9-e307-4026-bc72-fe1e0964cf14.png)
+
+
 
