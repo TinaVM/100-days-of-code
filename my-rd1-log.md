@@ -72,7 +72,8 @@ Today's Progress: Started with the 'Learn HTML Forms by Building a Register Form
 
 Thoughts: After completing some steps to the project, I have come learnt some additional or new attributes as well as some elements that you can add to a registration form on HTML. This has been of great help for future projects that require a form.
 
-Link to work: ![image](https://user-images.githubusercontent.com/92442291/180516993-e797846d-15d9-44d9-b88d-251fb99b3dcb.png)
+Link to work:![image](https://user-images.githubusercontent.com/92442291/180517776-ddfd1546-ae62-4d47-94b8-cb7e258a5263.png)
+
 
 
 
