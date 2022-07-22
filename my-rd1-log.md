@@ -65,4 +65,15 @@ Thoughts: After the completion, I have learnt more about the color models and ho
 Link to work: ![image](https://user-images.githubusercontent.com/92442291/180304135-90fde0d9-e307-4026-bc72-fe1e0964cf14.png)
 
 
+R1D7
+Day 7: July 22,2022
+
+Today's Progress: Started with the 'Learn HTML Forms by Building a Register Form' project in freecodecamp.org of thw responisve web design course and stopped at step number 33.
+
+Thoughts: After completing some steps to the project, I have come learnt some additional or new attributes as well as some elements that you can add to a registration form on HTML. This has been of great help for future projects that require a form.
+
+Link to work: ![image](https://user-images.githubusercontent.com/92442291/180516993-e797846d-15d9-44d9-b88d-251fb99b3dcb.png)
+
+
+
 
